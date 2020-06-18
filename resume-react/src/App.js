@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 
+import {Header} from "./views"
+
 const App = () => {
   return (
     <div className="App">
-      Hello World
+      <Header/>
     </div>
   );
 }
