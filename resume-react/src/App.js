@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
-import {Header} from "./views"
+import {Header, Banner} from "./views"
 
 const App = () => {
   return (
     <div className="App">
-      <Header/>
+      <Header banner={<Banner/>}/>
     </div>
   );
 }

@@ -1,1 +1,5 @@
-@import './theme.css'
+@import './theme.css';
+
+header .banner-text h3 {
+  color: #BBBBBB;
+}
