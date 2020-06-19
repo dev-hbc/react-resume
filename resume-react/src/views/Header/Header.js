@@ -22,7 +22,7 @@ const Header = ({
                         <a className="smoothscrool" href="#about">ABOUT</a>
                     </li>
                     <li>
-                        <a className="smoothscrool" href="#works">WORKS</a>
+                        <a className="smoothscrool" href="#portfolio">WORKS</a>
                     </li>
                     <li>
                         <a className="smoothscrool" href="#resume">RESUME</a>

@@ -1,5 +1,11 @@
 @import './theme.css';
 
+/* 
+  Customize theme styles
+*/
 header .banner-text h3 {
   color: #BBBBBB;
+}
+ul#nav li.current a { /* Header Item HighLight */
+  color: #a9e65a;
 }
